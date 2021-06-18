@@ -1,0 +1,16 @@
+.common {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 100px;
+  font-size: 1.5rem;
+}
+.common .left {
+  background-color: crimson;
+  color: #fff;
+  padding: 60px;
+}
+.common .right {
+  background-color: goldenrod;
+  padding: 50px;
+}
